@@ -5,7 +5,7 @@ puppeteer.use(StealthPlugin());
 
 // const targetUrl = process.env.TARGET_URL;
 // const targetUrl = process.env.TARGET_URL;
-const targetUrl = "https://mynovel.co/novel/uUvy97dLvlDDEJgW02q5EOoc";
+const targetUrl = "https://mynovel.co/novel/J1pJfa4eQWrJGKz06HdwQvFW";
 const viewCount = 2000;
 const visitDuration = 3200;
 
